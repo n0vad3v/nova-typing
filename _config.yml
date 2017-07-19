@@ -1,0 +1,41 @@
+# Lang
+language: zh
+
+# Dark Mode
+dark: false
+
+# Header
+menu:
+  Home: /
+  Blog: /archives
+  Contact: /contact
+  Links: /links
+  RSS: /atom.xml
+
+# Content
+fancybox: true
+
+
+# Miscellaneous
+google_analytics:
+favicon: /pics/n0vad3v.jpg
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+# Profile
+nickname: N0vaD3v's Awesome Blog
+#description: Linux System Administration, Virtualization, Defensive Programming and Network Performance Optimization
+description: Life, Love, Linux
+links:
+  BLOG: /archives
+  GITHUB: https://github.com/n0vad3v
+  PORTFILOS: https://500px.com/n0vad3v
+  CONTACT: /contact
+
+
+# Info
+archive_footer_content: N0vaD3v’s Awesome blog is proudly hosted by Lizihu Utopia LUNA Association 
+post_footer_content: <p>N0vaD3v's Awesome blog is proudly hosted by Lizihu Utopia LUNA Association</p><b>All articles are under Attribution-NonCommercial-ShareAlike 4.0</b>
